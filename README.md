@@ -37,5 +37,3 @@ This project analyzes customer churn data to identify key factors contributing t
 - Developing customer retention strategies based on findings.  
 
 ---
-
-Would you like any modifications or additional sections in the README? 🚀
